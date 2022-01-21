@@ -1,7 +1,6 @@
 //programa con opciones matematicas 
-//holass 
 //HELLO WORLD
-//abcasdhgasdjhgasdhasd
+//GRUPOOO
 #include<iostream>
 using namespace std;
 int main() {
