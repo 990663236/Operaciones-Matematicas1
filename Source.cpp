@@ -43,6 +43,5 @@ int main() {
 
 
 	}
-	//nos se entiende tu claeslkggf
 	return 0;
 }
