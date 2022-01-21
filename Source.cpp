@@ -1,4 +1,5 @@
-//programa con opciones matematicas
+//programa con opciones matematicas 
+//holass 
 #include<iostream>
 using namespace std;
 int main() {
